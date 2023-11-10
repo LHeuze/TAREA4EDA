@@ -1,0 +1,3 @@
+F:/EDA/TAREA4EDA/build/CMakeFiles/p.dir
+F:/EDA/TAREA4EDA/build/CMakeFiles/edit_cache.dir
+F:/EDA/TAREA4EDA/build/CMakeFiles/rebuild_cache.dir

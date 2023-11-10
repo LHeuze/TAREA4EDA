@@ -1,0 +1,37 @@
+[
+{
+  "directory": "F:/EDA/TAREA4EDA/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\p.dir\\main.cpp.obj -c F:\\EDA\\TAREA4EDA\\main.cpp",
+  "file": "F:/EDA/TAREA4EDA/main.cpp"
+},
+{
+  "directory": "F:/EDA/TAREA4EDA/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\p.dir\\avl.cpp.obj -c F:\\EDA\\TAREA4EDA\\avl.cpp",
+  "file": "F:/EDA/TAREA4EDA/avl.cpp"
+},
+{
+  "directory": "F:/EDA/TAREA4EDA/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\p.dir\\2-3Tree.cpp.obj -c F:\\EDA\\TAREA4EDA\\2-3Tree.cpp",
+  "file": "F:/EDA/TAREA4EDA/2-3Tree.cpp"
+},
+{
+  "directory": "F:/EDA/TAREA4EDA/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\p.dir\\abb.cpp.obj -c F:\\EDA\\TAREA4EDA\\abb.cpp",
+  "file": "F:/EDA/TAREA4EDA/abb.cpp"
+},
+{
+  "directory": "F:/EDA/TAREA4EDA/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\p.dir\\avlNode.cpp.obj -c F:\\EDA\\TAREA4EDA\\avlNode.cpp",
+  "file": "F:/EDA/TAREA4EDA/avlNode.cpp"
+},
+{
+  "directory": "F:/EDA/TAREA4EDA/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\p.dir\\abbNode.cpp.obj -c F:\\EDA\\TAREA4EDA\\abbNode.cpp",
+  "file": "F:/EDA/TAREA4EDA/abbNode.cpp"
+},
+{
+  "directory": "F:/EDA/TAREA4EDA/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\p.dir\\2-3Node.cpp.obj -c F:\\EDA\\TAREA4EDA\\2-3Node.cpp",
+  "file": "F:/EDA/TAREA4EDA/2-3Node.cpp"
+}
+]
