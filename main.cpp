@@ -35,7 +35,13 @@ void insertarYBuscarDatosAVL(std::vector<int> v,int k){
     }
     AVLtree.find(k);
 }
-
+void insertarYBuscarDatosABB(std::vector<int> v,int k){
+    trees::ABB ABBtree;
+    for(int i :v){
+        ABBtree.insert(v[i]);
+    }
+    ABBtree.find(k);
+}
 int main(){
     int N;
     int k;
@@ -47,7 +53,9 @@ int main(){
 
     std::vector<int> datos = generarDatos(N);
     auto start = chrono::high_resolution_clock::now();
-    insertarYBuscarDatosAVL(datos,k);
+    
+    //insertarYBuscarDatosAVL(datos,k);
+    insertarYBuscarDatosABB(datos,k);
 
     auto end = chrono::high_resolution_clock::now();
     long elapsedTime = getElapsedTime(start, end);

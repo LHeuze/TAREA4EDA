@@ -5,8 +5,6 @@
  *      Author: jsaavedr
  */
 
-#ifndef ABBNODE_HPP_
-#define ABBNODE_HPP_
 
 namespace trees {
 
@@ -31,5 +29,3 @@ public:
 };
 
 } /* namespace trees */
-
-#endif /* ABBNODE_H_ */
